@@ -1,2 +1,3 @@
+n = int(input("enter value:"))
 for i in range(1,11):
-    print("2*",i,"=",2*i)
+    print(i,"*",n,"=",n*i)
